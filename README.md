@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
+  
   <h1>TDartColors</h1>
-</p>
-
-<p align="center">
   <h2>The Dark Theme</h2>
-</p>
+  
+</dv1>
+
 
 ## ScreenShots 
 ![Flutter](https://github.com/Techno-Disaster/TDartColors/blob/master/Sceenshots/Dart.png)
