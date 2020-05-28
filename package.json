@@ -18,7 +18,7 @@
             {
                 "label": "TDartColors",
                 "uiTheme": "vs-dark",
-                "path": "./themes/TDartColors-color-theme.json"
+                "path": "./themes/TDartcolors-color-theme.json"
             }
         ]
     }
