@@ -2,13 +2,18 @@
   
   <h1>TDartColors</h1>
   <h2>The Dark Theme</h2>
+  <h2>Screenshots</h2>
   
 </div>
 
+<p align="center">
+  <img alt="preview" src="https://github.com/Techno-Disaster/TDartColors/blob/master/Sceenshots/Dart.png" width="90%">
+</p>
 
-## ScreenShots 
-![Flutter](https://github.com/Techno-Disaster/TDartColors/blob/master/Sceenshots/Dart.png)
-![Python](https://github.com/Techno-Disaster/TDartColors/blob/master/Sceenshots/Python.png)
+<p align="center">
+  <img alt="preview" src="https://github.com/Techno-Disaster/TDartColors/blob/master/Sceenshots/Python.png" width="90%">
+</p>
+
 
 ## Installation
 
