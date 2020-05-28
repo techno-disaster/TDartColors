@@ -7,11 +7,11 @@
 </div>
 
 <p align="center">
-  <img alt="preview" src="https://github.com/Techno-Disaster/TDartColors/blob/master/Sceenshots/Dart.png" width="90%">
+  <img alt="dart" src="https://raw.githubusercontent.com/Techno-Disaster/TDartColors/master/Sceenshots/Dart.png" width="90%">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://github.com/Techno-Disaster/TDartColors/blob/master/Sceenshots/Python.png" width="90%">
+  <img alt="python" src="https://raw.githubusercontent.com/Techno-Disaster/TDartColors/master/Sceenshots/Python.png" width="90%">
 </p>
 
 
