@@ -1,0 +1,22 @@
+{
+    "name": "tdartcolors",
+    "publisher": "Techno-Disaster",
+    "displayName": "TDartColors",
+    "description": "Based on Celestial, theme will be mostly curated for Flutter and Dart files",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TDartColors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TDartColors-color-theme.json"
+            }
+        ]
+    }
+}
