@@ -3,6 +3,9 @@
     "publisher": "Techno-Disaster",
     "displayName": "TDartColors",
     "description": "Based on Celestial, theme will be mostly curated for Flutter and Dart files",
+    "repository": {
+        "url": "https://github.com/Techno-Disaster/TDartColors"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.45.0"
