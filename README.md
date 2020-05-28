@@ -1,3 +1,15 @@
+<p align="center">
+  <h1>TDartColors</h1>
+</p>
+
+<p align="center">
+  <h2>The Dark Theme</h2>
+</p>
+
+## ScreenShots 
+![Flutter](https://github.com/Techno-Disaster/TDartColors/blob/master/Sceenshots/Dart.png)
+![Python](https://github.com/Techno-Disaster/TDartColors/blob/master/Sceenshots/Python.png)
+
 ## Installation
 
 1. Search for TDartColors Theme in Extensions option in VS Code sidebar
@@ -10,6 +22,5 @@
 TDartColors is a modified version of [Horizon](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) Theme by [Jonathon](https://marketplace.visualstudio.com/publishers/jolaleye).
 
 
-#### Will update Readme with screenhots soon
 
 
